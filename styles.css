@@ -1,0 +1,101 @@
+* {
+	margin: 0;
+	padding: 0;
+	background-color: ghostwhite;
+
+}
+.BG {
+	width: 100%;
+	height: 100%;
+	position: relative;
+
+}
+
+
+h1{
+	text-align: center;
+	margin-top: 30px;
+	font-family: bradley hand itc;
+	font-display: ;
+	font-size: 90px;
+}
+body{
+	font-family: Roboto ;
+	font-size: 30px;
+}
+.par1{
+	position: relative;
+	text-align: 30px;
+	margin-left: 80px;
+	margin-right: 700px;
+	margin-top: 90px;
+	font-family: roboto;
+	text-indent: 30px;
+	line-height: 1.5;
+	font-size: 24px;
+}
+.pic{
+	float: right;
+	position: relative;
+	top: -200px;
+	right: 130px;
+	border-radius: 50%;
+}
+.par2{
+	position: relative;
+	text-align: 30px;
+	margin-left: 80px;
+	margin-right: 700px;
+	margin-top: 30px;
+	font-family: roboto;
+	line-height: 1.5;
+	font-size: 24px;
+}
+.par3{
+	position: relative;
+	text-align: 30px;
+	margin-left: 80px;
+	margin-right: 700px;
+	margin-top: 30px;
+	font-family: roboto;
+	line-height: 1.5;
+	font-size: 24px;
+}
+.par4{
+	position: relative;
+	text-align: 30px;
+	margin-left: 80px;
+	margin-right: 700px;
+	margin-top: 30px;
+	margin-bottom: 60px;
+	font-family: roboto;
+	line-height: 1.5;
+	font-size: 24px;
+}
+footer{
+	width: 100%;
+	height: 200px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	
+	
+
+	
+}
+.name{
+	float: left;
+	margin-left: 50px;
+	font-family: bauhaus 93;
+}
+li{
+	float: left;
+	display: inline;
+	margin-top: -20px;
+	margin-left: 180px;
+	padding: 20px;
+	opacity:0.8;
+
+
+
+
+}
